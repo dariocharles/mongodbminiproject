@@ -2,7 +2,7 @@
     jQuery for MaterializeCSS initialization
 */
 
-// Sot he side nav slights right when clicked
+// So the side nav slights right when clicked
 $(document).ready(function () {
     $(".sidenav").sidenav({edge: "right"});
 });

@@ -2,6 +2,15 @@ PROBLEM #1 - CONNECT TO FLASK - Do test
 DO TEST FOR APP.PY
 
 
+
+-add other log in informtaion - like a phone number ?
+-Registration 2-3 fields to the registration pagwe - phone number, email, address, do you want to receive email description
+-when logged in - get the user information to be displayed so we can pull it??? Clarify 
+-display user profile page - and then have the crud functionality so the user can update, delete?
+
+
+
+
 install flask - pip3 install Flask
 
 for env.py file -
