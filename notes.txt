@@ -1,7 +1,7 @@
 PROBLEM #1 - CONNECT TO FLASK - Do test
 DO TEST FOR APP.PY
 
-
+TESTING - Put name and everything the sign up regirster page and go to mongodb cluster to double check it has registed.
 
 -add other log in informtaion - like a phone number ?
 -Registration 2-3 fields to the registration pagwe - phone number, email, address, do you want to receive email description
