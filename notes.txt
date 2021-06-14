@@ -1,4 +1,4 @@
-CANNOT INSTALL FLASk?
+PROBLEM #1 - CONNECT TO FLASK - Do test
 DO TEST FOR APP.PY
 
 
@@ -8,7 +8,11 @@ for env.py file -
 got to - https://randomkeygen.com/ and get a random key
 
 
+NEED FOR HEROKU!
+pip3 freeze --local >requirements.txt
+echo web: python app.py > Procfile
+(If this command creates a second blank line in the Procfile delete the second line cuz may cause problems with heroku)
+Go to heroku and create new app. 
 
-pip freeze > requirements. txt
 
 test - python3 app.py
