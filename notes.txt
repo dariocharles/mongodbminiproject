@@ -1,0 +1,14 @@
+CANNOT INSTALL FLASk?
+DO TEST FOR APP.PY
+
+
+install flask - pip3 install Flask
+
+for env.py file -
+got to - https://randomkeygen.com/ and get a random key
+
+
+
+pip freeze > requirements. txt
+
+test - python3 app.py
