@@ -8,7 +8,11 @@ TESTING - Put name and everything the sign up regirster page and go to mongodb c
 -when logged in - get the user information to be displayed so we can pull it??? Clarify 
 -display user profile page - and then have the crud functionality so the user can update, delete?
 
-
+Optional:
+If you are done and would like to practice further from the mini project, you can try adding the following things:
+- More components on the registration form adding more entries to the database
+- Displaying the new data on the user profile from the database
+- Adding update ability on the user profile page to allow the user to change information stored in the database
 
 
 install flask - pip3 install Flask
